@@ -8,7 +8,7 @@ Para utilizar esse monitor é necessário ter instalado dois programas essência
 - [Winscp](https://cpsconnections-my.sharepoint.com/:u:/p/operacional/EXjZi6aNOfJKnrv3uykyfaIBXZjqhjrTWcNr8hgrnq6hXQ?e=eJdIZO) <- Link para download
 - [Putty](https://cpsconnections-my.sharepoint.com/:u:/p/operacional/EbsMIh_GNFNFqAmybCBLbaUBFxULkNYxkXuWrPwYxZ7raA?e=Zu6oB0)
 
-##Instalando o monitor **network.sh**:
+### Instalando o monitor **network.sh**:
 
 Primeiro passe o arquivo **network.sh** para o Linkit via Winscp, nesse caso você precisa ter em mãos o IP do coletor, onde você conseguirá fazer a conexão colocando o usuário **root** e senha **123456**, com isso passe o arquivo para pasta **/home/root/**. Depois acesse o coletor via putty com o mesmo IP, usuário e senha de anteriormente.
 
@@ -33,7 +33,7 @@ Para utilizar esse monitor é necessário ter instalado dois programas essência
 - [Winscp](https://cpsconnections-my.sharepoint.com/:u:/p/operacional/EXjZi6aNOfJKnrv3uykyfaIBXZjqhjrTWcNr8hgrnq6hXQ?e=eJdIZO) <- Link para download
 - [Putty](https://cpsconnections-my.sharepoint.com/:u:/p/operacional/EbsMIh_GNFNFqAmybCBLbaUBFxULkNYxkXuWrPwYxZ7raA?e=Zu6oB0)
 
-##Instalando o monitor **network.sh**:
+### Instalando o monitor **network.sh**:
 
 Primeiro passe o arquivo **network.sh** para o RockPi via Winscp, nesse caso você precisa ter em mãos o IP do coletor, onde você conseguirá fazer a conexão colocando o usuário **rock** e senha **rock**, com isso passe o arquivo para pasta **/home/rock/**. Depois acesse o coletor via putty com o mesmo IP, usuário e senha de anteriormente.
 
