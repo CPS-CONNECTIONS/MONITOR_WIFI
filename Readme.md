@@ -51,6 +51,7 @@ Primeiro passe o arquivo **network.sh** para o RockPi via Winscp, nesse caso voc
   sudo systemctl start cron
   sudo systemctl enable cron
 ```
+## Obs: Lembre-se de editar no arquivo o nome da rede alvo no campo SSID!
 
 ---
 Para suporte técnico ou comercial, entre em contato com:
